@@ -1,2 +1,0 @@
-# cartorio-ebac
-course project
